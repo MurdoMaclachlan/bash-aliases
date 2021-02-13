@@ -2,7 +2,7 @@
 
 **Important note: this repository is designed with Slackware in mind, and so there are some Slackware-specific commands aliased here, especially in the root directory.**
 
-This repository is a list of bash aliases I use on my system. To use these aliases, you must have bash as your default shell. Each folder contains a set of aliases specific to a certain category (misc, pip, slackpkg, etc.).
+This repository is a list of command aliases I use on my system. To use these aliases, you must have bash as your default shell. Each folder contains a set of aliases specific to a certain category (misc, pip, slackpkg, etc.).
 
 Most aliases are placed in `~/.bash_aliases`, and all of these are located in the `generic` directory; however, some commands (e.g. slackpkg) require root, and thus must be speficially placed in your *root user's* version of that file. These are located in the `root` directory.
 
